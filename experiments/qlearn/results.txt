@@ -1,0 +1,5 @@
+num_collisions: 996
+num_success: 4
+avg steps to collision: 32
+avg steps to success: 178
+avg reward per episode: -188.28427682574718
